@@ -1,8 +1,7 @@
 getting-started-python
 ======================
 
-[![Wercker
-status](https://app.wercker.com/status/b312ecb5c6fdd7c6eb871455a5b8964e/s)](https://app.wercker.com/project/bykey/b312ecb5c6fdd7c6eb871455a5b8964e)
+[![wercker status](https://app.wercker.com/status/1f36779596d0c22eae49a99eba9b1dea/m/master "wercker status")](https://app.wercker.com/project/byKey/1f36779596d0c22eae49a99eba9b1dea)
 
 Python sample application for wercker leveraging the Flask
 microframework
